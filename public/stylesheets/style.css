@@ -1,0 +1,25 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, "Lato", sans-serif;
+}
+
+.mySlides {display: none}
+
+#band p {
+  color: darkblue;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1.5;
+  text-align: center;
+}
+
+ul li {
+  list-style-type: square;
+  color: darkred;
+}
+
+#tour button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 7px;
+  font-size: 16px;
+}
